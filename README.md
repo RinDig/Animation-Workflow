@@ -2,7 +2,7 @@
 
 A production-tested system for making animated videos with [Remotion](https://www.remotion.dev/) and AI code assistants (Claude Code, Cursor, etc.).
 
-This isn't a tutorial. It's the infrastructure that lets you go from an idea to a finished animation in under an hour — the specs, the style rules, the component patterns, and the workflow that makes it repeatable.
+The goal of this repo is to provide the infrastructure that lets you go from an idea to a finished animation in under an hour — the specs, the style rules, the component patterns, and the workflow that makes it repeatable that i spoke on in this video https://www.youtube.com/watch?v=yEa6dgh7wuc
 
 ## What's Inside
 
